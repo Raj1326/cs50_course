@@ -1,0 +1,6 @@
+Get height as input form user 
+Height should be between 1 and 8 , otherwise repeat first step
+Iterate form height to 1 for rows 
+  On iteration i, print j spaces based on condition  
+  Then print hashes in the remaininng places of row 
+  And then a add newline
